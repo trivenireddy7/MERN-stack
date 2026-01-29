@@ -1,0 +1,28 @@
+.navbar{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+
+}
+ul{
+    list-style: none;
+    background-color: chocolate;
+    padding: 10px;
+}
+.link{
+    padding: 10px;
+    background-color: beige;
+    border-radius: 10px;
+}
+.link{
+    text-decoration: none;
+    color: black;
+}
+.link:hover{
+    background-color: pink;
+    color: black
+
+}
+    
+
+
